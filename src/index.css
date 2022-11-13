@@ -13,3 +13,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--main-text);
+  background-color: var(--main-background);
+  font-size: 20px;
+}
+/* Утилиты */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+.ul{
+  list-style: none;
+}
+.li {
+  text-decoration: none;
+}
+img {
+  display: block;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+}

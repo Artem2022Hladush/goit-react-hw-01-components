@@ -1,0 +1,35 @@
+
+.item{
+display: flex;
+align-items: center;
+background-color: aliceblue;
+width: 200px;
+border: 1px solid black;
+padding: 20px;
+margin: 0 auto;
+}
+.item:not(:last-child)
+{
+    margin-bottom: 10px;
+}
+
+.name{
+margin-left: 10px;
+}
+.online{
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+
+    background-color: green;
+}
+.offline{
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    background-color: red;
+}
