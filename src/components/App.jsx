@@ -6,7 +6,8 @@ import {user, data, friends, transactions} from "../JSON";
 
 
 export const App = () => {
-  return (<><Profile
+  return (<>
+  <Profile
   username={user.username}
   tag={user.tag}
   location={user.location}
