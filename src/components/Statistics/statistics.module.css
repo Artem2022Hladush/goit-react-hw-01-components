@@ -1,0 +1,37 @@
+.statistics{
+   margin: 40px; 
+}
+.title{
+    padding: 20px;
+    text-align: center;
+    width: 460px;
+    margin: 0 auto;
+    background-color: rgb(179, 209, 235);
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    width: 125px;
+}
+.item:nth-child(2n)
+{
+    background-color: rgb(151, 151, 231);
+}
+.item:nth-child(2n+1)
+{
+    background-color: rgb(105, 105, 235);
+}
+.stat__list{
+    margin: 0 auto;
+    background-color: aliceblue;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+.label{
+    text-align: center;
+}
+.percentage{
+    text-align: center;
+}
