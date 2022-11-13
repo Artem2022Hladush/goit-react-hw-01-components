@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/css/main.cb86331d.css",
-    "main.js": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/js/main.09d128a3.js",
+    "main.css": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/css/main.c9a5315f.css",
+    "main.js": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/js/main.819af556.js",
     "index.html": "/Artem2022Hladush.github.io/goit-react-hw-01-components/index.html",
-    "main.cb86331d.css.map": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/css/main.cb86331d.css.map",
-    "main.09d128a3.js.map": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/js/main.09d128a3.js.map"
+    "main.c9a5315f.css.map": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/css/main.c9a5315f.css.map",
+    "main.819af556.js.map": "/Artem2022Hladush.github.io/goit-react-hw-01-components/static/js/main.819af556.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb86331d.css",
-    "static/js/main.09d128a3.js"
+    "static/css/main.c9a5315f.css",
+    "static/js/main.819af556.js"
   ]
 }
